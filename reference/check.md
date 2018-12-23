@@ -5,4 +5,4 @@ description: a sample doc that is really covered
 ---
 
 
-can you dig it suckaa
+checking if a sample reference dir works
